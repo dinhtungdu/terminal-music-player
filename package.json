@@ -1,0 +1,16 @@
+{
+  "name": "terminal-music-player",
+  "version": "1.0.0",
+  "description": "Playing music from terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dinhtungdu",
+  "license": "ISC",
+  "dependencies": {
+    "lame": "^1.2.4",
+    "speaker": "^0.4.1",
+    "youtube-audio-stream": "^0.3.0"
+  }
+}
